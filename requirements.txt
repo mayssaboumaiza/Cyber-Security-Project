@@ -1,0 +1,20 @@
+# requirements.txt
+pandas
+numpy
+
+scikit-learn
+xgboost
+lightgbm
+imbalanced-learn
+
+tensorflow
+keras
+
+matplotlib
+
+jupyter
+jupyterlab
+ipykernel
+notebook
+
+kagglehub
